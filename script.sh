@@ -6,3 +6,5 @@ mkdir -p report2
 date > report2/report2.txt
 hostname >> report2/report2.txt
 uptime >> report2/report2.txt
+
+cp "report2/report2.txt" /var/www/html/report2.txt
