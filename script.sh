@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Create two directories
+# Create two directorie
 
 mkdir -p report2
 
