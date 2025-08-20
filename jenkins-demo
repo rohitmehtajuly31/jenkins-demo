@@ -1,7 +1,1 @@
-
-mkdir -p report2
-
-# Generate report2/report2.txt
-date > report2/report2.txt
-hostname >> report2/report2.txt
-uptime >> report2/report2.txt
+hello git....first commit
